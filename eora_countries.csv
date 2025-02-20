@@ -1,0 +1,190 @@
+ID,GID,Name,IO Type, Sectors,Region,IncomeGroup,country_new
+1,AFG,Afghanistan,IIOT,26,E_Euro_Asia,LIC,S Asia
+2,ALB,Albania,IIOT,26,E_Euro_Asia,UMIC,E EU
+3,DZA,Algeria,IIOT,26,MENA,LMIC,Africa
+4,AND,Andorra,IIOT,26,OECD,HIC,W EU
+5,AGO,Angola,IIOT,26,Africa,LMIC,Africa
+6,ATG,Antigua,IIOT,26,LAC,HIC,S America
+7,ARG,Argentina,SUT,125/196,LAC,UMIC,S America
+8,ARM,Armenia,IIOT,26,E_Euro_Asia,UMIC,Asia Pacific (developed)
+9,ABW,Aruba,IIOT,26,LAC,HIC,S America
+10,AUS,Australia,SUT,345/345,OECD,HIC,Asia Pacific (developed)
+11,AUT,Austria,SUT,61/61,OECD,HIC,W EU
+12,AZE,Azerbaijan,IIOT,26,E_Euro_Asia,UMIC,Asia Pacific (developed)
+13,BHS,Bahamas,IIOT,26,LAC,HIC,S America
+14,BHR,Bahrain,IIOT,26,MENA,HIC,Middle E
+15,BGD,Bangladesh,IIOT,26,E_S_Asia,LMIC,Asia Pacific (developing)
+16,BRB,Barbados,IIOT,26,LAC,HIC,S America
+17,BLR,Belarus,IIOT,26,E_Euro_Asia,UMIC,E EU
+18,BEL,Belgium,SUT,61/61,OECD,HIC,W EU
+19,BLZ,Belize,IIOT,26,LAC,LMIC,S America
+20,BEN,Benin,IIOT,26,Africa,LMIC,Africa
+21,BMU,Bermuda,IIOT,26,OECD,HIC,W EU
+22,BTN,Bhutan,IIOT,26,E_S_Asia,LMIC,S Asia
+23,BOL,Bolivia,SUT,37/37,LAC,LMIC,S America
+24,BIH,Bosnia and Herzegovina,IIOT,26,E_Euro_Asia,UMIC,E EU
+25,BWA,Botswana,IIOT,26,Africa,UMIC,Africa
+26,BRA,Brazil,SUT,56/111,LAC,UMIC,S America
+27,VGB,British Virgin Islands,IIOT,26,LAC,HIC,S America
+28,BRN,Brunei,IIOT,26,E_S_Asia,HIC,S Asia
+29,BGR,Bulgaria,IIOT,26,E_Euro_Asia,UMIC,E EU
+30,BFA,Burkina Faso,IIOT,26,Africa,LIC,Africa
+31,BDI,Burundi,IIOT,26,Africa,LIC,Africa
+32,KHM,Cambodia,IIOT,26,E_S_Asia,LMIC,Asia Pacific (developing)
+33,CMR,Cameroon,IIOT,26,Africa,LMIC,Africa
+34,CAN,Canada,IIOT,49,OECD,HIC,CAN
+35,CPV,Cape Verde,IIOT,26,Africa,LMIC,Africa
+36,CYM,Cayman Islands,IIOT,26,LAC,HIC,S America
+37,CAF,Central African Republic,IIOT,26,Africa,LIC,Africa
+38,TCD,Chad,IIOT,26,Africa,LIC,Africa
+39,CHL,Chile,SUT,75/75,OECD,HIC,S America
+40,CHN,China,CIOT,123,E_S_Asia,UMIC,CHN
+41,COL,Colombia,SUT,60/60,OECD,UMIC,S America
+42,COG,Congo,IIOT,26,Africa,LMIC,Africa
+43,CRI,Costa Rica,IIOT,26,OECD,UMIC,S America
+44,HRV,Croatia,IIOT,26,E_Euro_Asia,HIC,E EU
+45,CUB,Cuba,IIOT,26,LAC,UMIC,S America
+46,CYP,Cyprus,IIOT,26,E_Euro_Asia,HIC,Asia Pacific (developed)
+47,CZE,Czech Republic,SUT,61/61,OECD,HIC,W EU
+48,CIV,Cote dIvoire,IIOT,26,Africa,LMIC,Africa
+49,PRK,North Korea,IIOT,26,E_Euro_Asia,LMIC,Asia Pacific (developing)
+50,COD,DR Congo,IIOT,26,Africa,LIC,Africa
+51,DNK,Denmark,IIOT,131,OECD,HIC,W EU
+52,DJI,Djibouti,IIOT,26,Africa,LMIC,Africa
+53,DOM,Dominican Republic,IIOT,26,LAC,UMIC,S America
+54,ECU,Ecuador,SUT,49/61,LAC,UMIC,S America
+55,EGY,Egypt,IIOT,26,MENA,LMIC,Middle E
+56,SLV,El Salvador,IIOT,26,LAC,LMIC,S America
+57,ERI,Eritrea,IIOT,26,Africa,LIC,Africa
+58,EST,Estonia,SUT,61/61,OECD,HIC,E EU
+59,ETH,Ethiopia,IIOT,26,Africa,LIC,Africa
+60,FJI,Fiji,IIOT,26,Oceania,UMIC,Asia Pacific (developed)
+61,FIN,Finland,SUT,61/61,OECD,HIC,W EU
+62,FRA,France,SUT,61/61,OECD,HIC,W EU
+63,PYF,French Polynesia,IIOT,26,Oceania,HIC,Asia Pacific (developed)
+64,GAB,Gabon,IIOT,26,Africa,UMIC,Africa
+65,GMB,Gambia,IIOT,26,Africa,LIC,Africa
+66,GEO,Georgia,SUT,47/68,E_Euro_Asia,UMIC,Asia Pacific (developed)
+67,DEU,Germany,CIOT,72,OECD,HIC,W EU
+68,GHA,Ghana,IIOT,26,Africa,LMIC,Africa
+69,GRC,Greece,SUT,61/61,OECD,HIC,E EU
+70,GRL,Greenland,IIOT,31,OECD,HIC,W EU
+71,GTM,Guatemala,IIOT,26,LAC,UMIC,S America
+72,GIN,Guinea,IIOT,26,Africa,LIC,Africa
+73,GUY,Guyana,IIOT,26,LAC,UMIC,S America
+74,HTI,Haiti,IIOT,26,LAC,LMIC,S America
+75,HND,Honduras,IIOT,26,LAC,LMIC,S America
+76,HKG,Hong Kong,SUT,38/38,E_S_Asia,HIC,Asia Pacific (developed)
+77,HUN,Hungary,SUT,61/61,OECD,HIC,E EU
+78,ISL,Iceland,IIOT,26,OECD,HIC,W EU
+79,IND,India,SUT,116/116,E_S_Asia,LMIC,IND
+80,IDN,Indonesia,CIOT,77,E_S_Asia,LMIC,IDN
+81,IRN,Iran,SUT,100/148,MENA,LMIC,Middle E
+82,IRQ,Iraq,IIOT,26,MENA,UMIC,Middle E
+83,IRL,Ireland,SUT,61/61,OECD,HIC,W EU
+84,ISR,Israel,SUT,163/163,OECD,HIC,Middle E
+85,ITA,Italy,SUT,61/61,OECD,HIC,W EU
+86,JAM,Jamaica,IIOT,26,LAC,UMIC,S America
+87,JPN,Japan,CIOT,402,OECD,HIC,Asia Pacific (developed)
+88,JOR,Jordan,IIOT,26,MENA,UMIC,Middle E
+89,KAZ,Kazakhstan,CIOT,121,E_Euro_Asia,UMIC,Asia Pacific (developed)
+90,KEN,Kenya,SUT,51/51,Africa,LMIC,Africa
+91,KWT,Kuwait,IIOT,55,MENA,HIC,Middle E
+92,KGZ,Kyrgyzstan,SUT,89/87,E_Euro_Asia,LMIC,Asia Pacific (developed)
+93,LAO,Laos,IIOT,26,E_S_Asia,LMIC,Asia Pacific (developing)
+94,LVA,Latvia,SUT,61/61,OECD,HIC,E EU
+95,LBN,Lebanon,IIOT,26,MENA,UMIC,Middle E
+96,LSO,Lesotho,IIOT,26,Africa,LMIC,Africa
+97,LBR,Liberia,IIOT,26,Africa,LIC,Africa
+98,LBY,Libya,IIOT,26,Africa,UMIC,Africa
+99,LIE,Liechtenstein,IIOT,26,OECD,HIC,W EU
+100,LTU,Lithuania,SUT,61/61,OECD,HIC,E EU
+101,LUX,Luxembourg,IIOT,26,OECD,HIC,W EU
+102,MAC,Macao SAR,IIOT,26,E_S_Asia,HIC,Asia Pacific (developed)
+103,MDG,Madagascar,IIOT,26,Africa,LIC,Africa
+104,MWI,Malawi,IIOT,26,Africa,LIC,Africa
+105,MYS,Malaysia,CIOT,98,E_S_Asia,UMIC,MYS
+106,MDV,Maldives,IIOT,26,E_S_Asia,UMIC,Asia Pacific (developed)
+107,MLI,Mali,IIOT,26,Africa,LIC,Africa
+108,MLT,Malta,SUT,61/61,E_Euro_Asia,HIC,Middle E
+109,MRT,Mauritania,IIOT,26,Africa,LMIC,Africa
+110,MUS,Mauritius,SUT,57/67,Africa,UMIC,Africa
+111,MEX,Mexico,SUT,80/80,OECD,UMIC,S America
+112,MCO,Monaco,IIOT,26,OECD,HIC,W EU
+113,MNG,Mongolia,IIOT,26,E_S_Asia,LMIC,S Asia
+114,MNE,Montenegro,IIOT,26,E_Euro_Asia,UMIC,E EU
+115,MAR,Morocco,IIOT,26,MENA,LMIC,Africa
+116,MOZ,Mozambique,IIOT,26,Africa,LIC,Africa
+117,MMR,Myanmar,IIOT,26,E_S_Asia,LMIC,MMR
+118,NAM,Namibia,IIOT,26,Africa,UMIC,Africa
+119,NPL,Nepal,IIOT,26,E_S_Asia,LMIC,S Asia
+120,NLD,Netherlands,SUT,61/61,OECD,HIC,W EU
+121,ANT,Netherlands Antilles,SUT,16/41,LAC,HIC,S America
+122,NCL,New Caledonia,IIOT,26,Oceania,HIC,Asia Pacific (developed)
+123,NZL,New Zealand,SUT,127/210,OECD,HIC,Asia Pacific (developed)
+124,NIC,Nicaragua,IIOT,26,LAC,LMIC,S America
+125,NER,Niger,IIOT,26,Africa,LIC,Africa
+126,NGA,Nigeria,IIOT,26,Africa,LMIC,Africa
+127,NOR,Norway,SUT,61/61,OECD,HIC,W EU
+128,PSE,Gaza Strip,IIOT,26,E_Euro_Asia,LMIC,Asia Pacific (developing)
+129,OMN,Oman,IIOT,26,MENA,HIC,Middle E
+130,PAK,Pakistan,IIOT,26,E_S_Asia,LMIC,S Asia
+131,PAN,Panama,IIOT,26,LAC,UMIC,S America
+132,PNG,Papua New Guinea,IIOT,26,Oceania,LMIC,Asia Pacific (developing)
+133,PRY,Paraguay,SUT,34/47,LAC,UMIC,S America
+134,PER,Peru,SUT,46/46,LAC,UMIC,S America
+135,PHL,Philippines,CIOT,77,E_S_Asia,LMIC,Asia Pacific (developing)
+136,POL,Poland,SUT,61/61,OECD,HIC,E EU
+137,PRT,Portugal,SUT,61/61,OECD,HIC,W EU
+138,QAT,Qatar,IIOT,26,MENA,HIC,Middle E
+139,KOR,South Korea,CIOT,78,OECD,HIC,Asia Pacific (developed)
+140,MDA,Moldova,IIOT,26,E_Euro_Asia,UMIC,E EU
+141,ROU,Romania,SUT,61/61,E_Euro_Asia,UMIC,E EU
+142,RUS,Russia,IIOT,49,E_Euro_Asia,UMIC,E EU
+143,RWA,Rwanda,IIOT,26,Africa,LIC,Africa
+144,WSM,Samoa,IIOT,26,Oceania,LMIC,Asia Pacific (developing)
+145,SMR,San Marino,IIOT,26,OECD,HIC,W EU
+146,STP,Sao Tome and Principe,IIOT,26,Africa,LMIC,Africa
+147,SAU,Saudi Arabia,IIOT,26,MENA,HIC,Middle E
+148,SEN,Senegal,IIOT,26,Africa,LMIC,Africa
+149,SRB,Serbia,IIOT,26,E_Euro_Asia,UMIC,E EU
+150,SYC,Seychelles,IIOT,26,Africa,HIC,Africa
+151,SLE,Sierra Leone,IIOT,26,Africa,LIC,Africa
+152,SGP,Singapore,SUT,154/154,E_S_Asia,HIC,Asia Pacific (developed)
+153,SVK,Slovakia,SUT,61/61,OECD,HIC,E EU
+154,SVN,Slovenia,SUT,61/61,OECD,HIC,E EU
+155,SOM,Somalia,IIOT,26,Africa,LIC,Africa
+156,ZAF,South Africa,SUT,95/96,Africa,UMIC,Africa
+157,SDS,South Sudan,IIOT,26,Africa,LIC,Africa
+158,ESP,Spain,SUT,76/119,OECD,HIC,W EU
+159,LKA,Sri Lanka,IIOT,26,E_S_Asia,LMIC,Asia Pacific (developing)
+160,SUD,Sudan,IIOT,26,Africa,LIC,Africa
+161,SUR,Suriname,IIOT,26,LAC,UMIC,S America
+162,SWZ,Swaziland,IIOT,26,Africa,LMIC,Africa
+163,SWE,Sweden,SUT,61/61,OECD,HIC,W EU
+164,CHE,Switzerland,SUT,43/43,OECD,HIC,W EU
+165,SYR,Syria,IIOT,26,MENA,LIC,Middle E
+166,TWN,Taiwan,CIOT,163,E_S_Asia,HIC,Asia Pacific (developed)
+167,TJK,Tajikistan,IIOT,26,E_Euro_Asia,LMIC,Asia Pacific (developing)
+168,THA,Thailand,CIOT,180,E_S_Asia,UMIC,Asia Pacific (developing)
+169,MKD,TFYR Macedonia,SUT,61/61,E_Euro_Asia,UMIC,E EU
+170,TGO,Togo,IIOT,26,Africa,LIC,Africa
+171,TTO,Trinidad and Tobago,IIOT,26,LAC,HIC,S America
+172,TUN,Tunisia,IIOT,26,MENA,LMIC,Africa
+173,TUR,Turkey,SUT,61/61,OECD,UMIC,Middle E
+174,TKM,Turkmenistan,IIOT,26,E_Euro_Asia,UMIC,Asia Pacific (developed)
+175,USR,Former USSR,IIOT,26,E_Euro_Asia,,E EU
+176,UGA,Uganda,IIOT,26,Africa,LIC,Africa
+177,UKR,Ukraine,CIOT,121,E_Euro_Asia,LMIC,E EU
+178,ARE,UAE,IIOT,26,MENA,HIC,Middle E
+179,GBR,UK,SUT,511/511,OECD,HIC,W EU
+180,TZA,Tanzania,IIOT,26,Africa,LMIC,Africa
+181,USA,USA,SUT,429/429,OECD,HIC,USA
+182,URY,Uruguay,SUT,84/103,LAC,HIC,S America
+183,UZB,Uzbekistan,CIOT,123,E_Euro_Asia,LMIC,Asia Pacific (developing)
+184,VUT,Vanuatu,IIOT,26,Oceania,LMIC,Asia Pacific (developing)
+185,VEN,Venezuela,SUT,122/122,LAC,UMIC,S America
+186,VNM,Viet Nam,CIOT,113,E_S_Asia,LMIC,VNM
+187,YEM,Yemen,IIOT,26,MENA,LIC,Middle E
+188,ZMB,Zambia,IIOT,26,Africa,LMIC,Africa
+189,ZWE,Zimbabwe,IIOT,26,Africa,LMIC,Africa
