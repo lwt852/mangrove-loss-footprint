@@ -7,3 +7,7 @@ Run_2: This section calculates the mangrove loss footprint and determines the lo
 Run_3: This section prepares the necessary code for visualization of the results. This process usually takes 1 min.
 
 Each part of the code should be executed one after the other to ensure proper data processing and visualization.
+
+The product-level analysis folder is used for more sophisticated mangrove loss footprint calculation for specific products using REX3 MRIO Tables. 
+
+The paper is under review at Nature Communications with an In Review Option. Zendono DOI will be available once we have it.
